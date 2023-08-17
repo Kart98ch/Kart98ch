@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kart98ch. I have am an aspiring games programmer currently enrolled in the Games Programming course at CG Spectrum. I can code in Python, MATLAB, VBA, C++ and basic C#.
+- 👋 Hi, I’m @Kart98ch. I am an aspiring games programmer currently enrolled in the Games Programming course at CG Spectrum. I can code in Python, MATLAB, VBA, C++ and basic C#.
 - 👀 I’m a self-taught in machine learning.
 - 🌱 I have worked on multiple projects: 1) Submerge, a game made for a month long Game Jam; 2) QNN, a first person puzzle game made with a small group of students; 3) Nighttime Runners, a multiplayer capture-the-flag game made with Voidea Games; 4) A 1v1 melee combat game currently in the works.
 - 📫 Please email me at kartik98ch@gmail.com if you need to reach out me about anything.
